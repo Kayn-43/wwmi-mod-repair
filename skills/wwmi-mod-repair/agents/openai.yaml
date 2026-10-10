@@ -1,0 +1,3 @@
+interface:
+  display_name: "WWMI Mod Repair"
+  short_description: "基于文件与帧证据，修复 WWMI Mod 的破碎、视距错色及搭配状态不同"
